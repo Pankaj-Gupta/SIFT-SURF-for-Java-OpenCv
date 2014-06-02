@@ -1,5 +1,4 @@
 HelloOpenCV
 ===========
 
-SIFT and SURF test
-in using OpenCV for Java
+SIFT and SURF using OpenCV for Java
